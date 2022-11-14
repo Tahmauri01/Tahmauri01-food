@@ -58,7 +58,7 @@ body{
     padding-right: 200px;
 }
 
-.SwissPic{
+.SwissPic{ 
     float: right;
     transform: rotate();
 }

@@ -29,6 +29,7 @@
 body{
     height: 100vh;
     padding-bottom: 400px;
+    font-size: larger;
 }
 
 #ParmText{
@@ -45,4 +46,47 @@ body{
     padding-top: 25px;
     padding-bottom: 25px;
     padding: px;
+}
+
+#MozzarellaText{
+    padding-right: 1000px;
+}
+
+#Mozz{
+    padding-left: 400px;
+    transform: rotate(4deg);
+    padding-right: 200px;
+}
+
+.SwissPic{
+    float: right;
+    transform: rotate();
+}
+
+#SwissText{
+    text-align: left;
+    color: brown;
+    text-align: center;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: rgb(240, 196, 19);
+    border-style: solid;
+    background-color: rgb(255, 221, 87);
+}
+
+#CheddarText{
+
+    border-radius: 25px;
+
+    border-color: bisque;
+    border-style: solid;
+    background-color: white;
+}
+
+#CheddarTitle{
+    border-radius: 25px;
+
+
+    padding-left: 50px;
+    padding-right: 50px;
 }
